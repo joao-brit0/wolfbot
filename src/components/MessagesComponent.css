@@ -1,0 +1,25 @@
+.message{
+    padding: .60rem 1.5rem .60rem 1.5rem;
+    border-radius: 1.7rem;
+    background-color: #313131;
+    width: 388px;
+    align-self: flex-end;
+}
+.bot-message{
+    align-self: flex-start;
+    background-color: transparent;
+    width: 700px;
+}
+.img-user-message{
+    display: none;
+    
+}
+.img-bot-message{
+    width: 1.5rem;
+    height: 1.5rem;
+    background-color: transparent;
+}
+p{
+    display: flex;
+    align-items: center;
+}
